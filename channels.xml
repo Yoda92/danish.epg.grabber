@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="dr1.dr.dk">
+	<display-name>DR1</display-name>
+</channel>
+<channel id="dr2.dr.dk">
+	<display-name>DR2</display-name>
+</channel>
+<channel id="dr3.dr.dk">
+	<display-name>DR3</display-name>
+</channel>
+<channel id="k.dr.dk">
+	<display-name>DR K</display-name>
+</channel>
+<channel id="ultra.dr.dk">
+	<display-name>DR Ultra</display-name>
+</channel>
+<channel id="ramasjang.dr.dk">
+	<display-name>DR Ramasjang</display-name>
+</channel>
